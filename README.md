@@ -1,11 +1,15 @@
 # 👩🏻‍💻 Carlos Eduardo
-
+<div align="center">
+  <a href="https://git.io/typing-svg">   
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF00F6&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Bem-vindo+ao+meu+perfil!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG">
+  </a>
+</div>
 <h3 align="left">Me contate!</h3>
 
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:carloseduardoo1337@gmail.com)
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6color:FFF)](mailto:carloseduardoo1337@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/carlos-eduardo-60151b29a/)
 
-
+![Image](https://github.com/user-attachments/assets/ec102c43-fe02-4c29-ab08-39f79202522c)
 # 🤖 Linguagens e Tecnologias
 
 <img 
